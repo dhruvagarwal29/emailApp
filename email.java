@@ -1,3 +1,5 @@
+//code----
+
 package emailapp;
 
 import java.util.Scanner;
